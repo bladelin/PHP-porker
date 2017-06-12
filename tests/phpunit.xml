@@ -1,0 +1,10 @@
+ <phpunit
+             colors='true'
+                     bootstrap="bootstrap.php"
+                             >
+                                 <testsuites>
+                                             <testsuite name="All Poker Tests">
+                                                             <directory>.</directory>
+                                                                     </testsuite>
+                                                                         </testsuites>
+                                                                     </phpunit>
